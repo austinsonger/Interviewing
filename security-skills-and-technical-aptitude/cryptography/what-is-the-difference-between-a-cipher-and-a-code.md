@@ -1,0 +1,3 @@
+# What is the difference between a cipher and a code?
+
+Ciphers and codes are both methods of encryption, but they differ in the way they are used. A cipher is an algorithm that is used to encrypt and decrypt data. It uses mathematical formulas or operations to transform plaintext (unencrypted) data into ciphertext (encrypted) data. On the other hand, a code is a system of symbols, letters, words, or signals that are used instead of ordinary words and numbers to send a message. Codes are typically used to replace entire words or phrases, whereas ciphers are used to replace individual characters or bits of data.
