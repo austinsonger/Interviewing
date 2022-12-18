@@ -24,23 +24,23 @@
 ## Privacy
 
 * [Data Privacy - General](privacy/data-privacy-general/README.md)
-  * [Data Privacy (Facts)](privacy/data-privacy-general/data-privacy/README.md)
+  * [Data Privacy](privacy/data-privacy-general/data-privacy/README.md)
     * [25 Data Privacy Questions](privacy/data-privacy-general/data-privacy/25-data-privacy-questions.md)
   * [Data categorization](privacy/data-privacy-general/data-categorization.md)
   * [Data Anonymization](privacy/data-privacy-general/data-anonymization.md)
   * [Data Classification](privacy/data-privacy-general/data-classification.md)
   * [Data Inventory](privacy/data-privacy-general/data-inventory.md)
-* [HIPAA (Facts)](privacy/hipaa/README.md)
+* [HIPAA](privacy/hipaa/README.md)
   * [HIPAA Security Rule](privacy/hipaa/hipaa-security-rule/README.md)
     * [25 HIPAA Security Rule Questions](privacy/hipaa/hipaa-security-rule/25-hipaa-security-rule-questions.md)
   * [HIPAA Privacy Rule](privacy/hipaa/hipaa-privacy-rule/README.md)
     * [25 HIPAA Privacy Rule](privacy/hipaa/hipaa-privacy-rule/25-hipaa-privacy-rule.md)
   * [Breach Notification Rule and Omnibus Rule of 2013](privacy/hipaa/breach-notification-rule-and-omnibus-rule-of-2013.md)
-* [Business Associate Agreement (Facts)](privacy/business-associate-agreement-baa/README.md)
+* [Business Associate Agreement (BAA)](privacy/business-associate-agreement-baa/README.md)
   * [20 BAA Questions](privacy/business-associate-agreement-baa/20-baa-questions.md)
-* [Data Use Agreement (Facts)](privacy/data-use-agreement-dua/README.md)
+* [Data Use Agreement (DUA)](privacy/data-use-agreement-dua/README.md)
   * [Questions](privacy/data-use-agreement-dua/questions.md)
-* [GDPR (Facts)](privacy/gdpr/README.md)
+* [GDPR](privacy/gdpr/README.md)
   * [Questions](privacy/gdpr/questions.md)
 
 ## GRC
@@ -176,4 +176,11 @@
 
 ## Problem Action Results (PAR)
 
-* [Page 1](problem-action-results-par/page-1.md)
+* [Ideas](problem-action-results-par/ideas/README.md)
+  * [Communicating Compliance News and Status](problem-action-results-par/ideas/communicating-compliance-news-and-status.md)
+  * [Implement Jumpcloud to replace Okta + Addigy + LastPass](problem-action-results-par/ideas/implement-jumpcloud-to-replace-okta-+-addigy-+-lastpass.md)
+  * [Communication Matrix (What and Where)](problem-action-results-par/ideas/communication-matrix-what-and-where.md)
+* [Problems](problem-action-results-par/problems/README.md)
+  * [Lacking a formal security program](problem-action-results-par/problems/lacking-a-formal-security-program.md)
+  * [Not enough resources to manage the complexity of policies](problem-action-results-par/problems/not-enough-resources-to-manage-the-complexity-of-policies.md)
+  * [Poor Vulnerability Management](problem-action-results-par/problems/poor-vulnerability-management.md)
