@@ -1,4 +1,4 @@
-# HIPAA (Facts)
+# HIPAA
 
 1. HIPAA stands for the Health Insurance Portability and Accountability Act of 1996.
 2. HIPAA was passed to protect patient health information and ensure privacy.

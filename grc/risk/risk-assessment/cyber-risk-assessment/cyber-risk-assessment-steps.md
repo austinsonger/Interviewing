@@ -1,5 +1,7 @@
 # Cyber Risk Assessment Steps
 
+&#x20;   &#x20;
+
 1. Identify Assets: Identify and document the critical assets of the organization.
 2. Assess Vulnerabilities: Assess the organization’s current vulnerabilities, considering both internal and external sources.
 3. Establish Risk Level: Establish the risk level associated with each vulnerability.

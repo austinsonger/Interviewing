@@ -1,5 +1,7 @@
 # Data Inventory
 
+&#x20;
+
 1. What is data inventory?
 
 Data inventory is a comprehensive list of all data assets within an organization, including where the data is stored, who owns it, what value it provides, how it is used, and how it is protected.

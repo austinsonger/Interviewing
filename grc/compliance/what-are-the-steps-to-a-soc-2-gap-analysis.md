@@ -16,3 +16,8 @@ The gap analysis process is a forward-looking exercise. The current implementati
 Thats when I included relevant parties for the gap analysis process in order to have an accurate understanding of the organizational controls and processes. The process should include inquiry, walkthroughs, etc, in order to have a precise understanding of the necessary controls and processes. It is also important that all relevant parties are involved in order to establish accountability for the implementation in order to resolve these gaps.
 
 Gap remediation should be prioritized according to the impact of the gap on the organization and its security in particular, as well as based on the benefit to the organization (by resolving this deficiency).Time lines need to be established in order to maintain appropriate resolution of gaps as well as to provide feedback to any stakeholders regarding the improvement and forward-looking plans for the organization.
+
+
+
+
+

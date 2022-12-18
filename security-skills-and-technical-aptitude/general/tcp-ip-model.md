@@ -62,6 +62,8 @@ It also includes how bits should optically be signaled by hardware devices which
 
 A network layer is a combination of the data line and defined in the article of OSI reference model. This layer defines how the data should be sent physically through the network. This layer is responsible for the transmission of the data between two devices on the same network.
 
+
+
 ### Differences between OSI and TCP/IP
 
 | OSI Model                                                                                                                                                     | TCP/IP model                                                                                     |

@@ -10,7 +10,7 @@
 
 ### What does the Breach Notification Rule require?
 
-> The Breach Notification Rule requires covered entities and business associates to notify individuals, in writing, of any breach of their protected health information. A breach is defined as the acquisition, access, use, or disclosure of protected health information that is not permitted under the HIPAA Privacy Rule.
+> &#x20;The Breach Notification Rule requires covered entities and business associates to notify individuals, in writing, of any breach of their protected health information. A breach is defined as the acquisition, access, use, or disclosure of protected health information that is not permitted under the HIPAA Privacy Rule.
 
 ### What is the timeline for notification under the Breach Notification Rule?
 

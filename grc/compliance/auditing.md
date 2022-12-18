@@ -20,3 +20,8 @@ A compensating control is when a process or technology is deficient and would re
 Oftentimes compensating controls are used more to assist information systems and IT processes, rather than business processes. It's important to understand what controls are, and the different types that can be implemented.
 
 Oftentimes technologies such as anti-malware will encompass all three control types especially with newer systems such as Carbon Black and CrowdStrike that have a machine learning backend.
+
+
+
+
+

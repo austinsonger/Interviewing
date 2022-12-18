@@ -1,4 +1,4 @@
-# Data Use Agreement (Facts)
+# Data Use Agreement (DUA)
 
 1. A Data Use Agreement (DUA) is a legally binding contract between two or more parties, typically the Data Provider and the Data Recipient, that governs the use, transfer, and storage of data.
 2. DUAs are used to protect the privacy and confidentiality of the data and to ensure that the data is used for the specified purpose.

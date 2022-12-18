@@ -1,10 +1,10 @@
 # Compute
 
-1. What are the components of AWS Compute?
+1. What are the components of AWS Compute?&#x20;
 2. AWS Compute consists of EC2, Lambda, ECS, Fargate, and Lightsail.
-3. What is the purpose of EC2?
+3. What is the purpose of EC2?&#x20;
 4. EC2 is a web service that provides secure, resizable compute capacity in the cloud. It allows customers to launch virtual servers, known as instances, in a matter of minutes.
-5. What is Lambda?
+5. What is Lambda?&#x20;
 6. Lambda is a serverless compute service that runs code in response to events and automatically manages the underlying compute resources.
 7. How does ECS work? ECS is a container orchestration service that allows customers to run, manage, and scale Docker containers on a cluster of Amazon EC2 instances.
 8. What is Fargate? Fargate is a serverless compute engine for containers that allows users to run containers without having to manage any underlying infrastructure.

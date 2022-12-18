@@ -1,5 +1,7 @@
 # Vendor Risk Assessment Steps
 
+
+
 1. Identify the vendor: Determine who you are assessing and the purpose of the assessment.
 2. Gather documentation: Request and review the vendor’s policies, procedures, and contracts.
 3. Conduct interviews: Talk to vendor personnel and stakeholders to understand the vendor’s processes and risk management approaches.

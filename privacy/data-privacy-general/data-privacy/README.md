@@ -1,4 +1,4 @@
-# Data Privacy (Facts)
+# Data Privacy
 
 1. Data privacy is the practice of protecting personal data from unauthorized access or use.
 2. The General Data Protection Regulation (GDPR) is an EU law that gives individuals the right to access, delete, transfer, and control their personal data.

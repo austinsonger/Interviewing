@@ -12,3 +12,6 @@ But where are OSI layers 5 and 6 in the TCP/IP model? Some sources hold that the
 
 \
 For instance, since the TCP protocol opens and maintains sessions at OSI layer 4, one could consider OSI layer 5 (the "session" layer) to be unnecessary — and it is not represented in the TCP/IP model. Additionally, HTTPS encryption and decryption can be considered an application layer (OSI layer 7 or TCP/IP layer 4) process instead of a presentation layer (OSI layer 6) process.
+
+
+

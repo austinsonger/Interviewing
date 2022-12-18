@@ -1,5 +1,7 @@
 # HIPAA Security Rule
 
+&#x20;
+
 1. HIPAA Security Rule requires covered entities to implement administrative, physical and technical safeguards to protect the confidentiality and integrity of Protected Health Information (PHI).
 2. Covered entities must assess the potential risks and vulnerabilities to the confidentiality, integrity and availability of all electronic PHI that they create, receive, maintain or transmit.
 3. Covered entities must ensure that all employees are trained on HIPAA Security Rule requirements and that they understand and follow the policies and procedures implemented by the organization.

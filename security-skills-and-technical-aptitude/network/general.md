@@ -1,5 +1,7 @@
 # General
 
+
+
 <details>
 
 <summary>What steps do you take to secure a network?</summary>
@@ -14,3 +16,8 @@
 8. Keep software and firmware up to date: Security patches and software updates are critical for keeping the network secure. Ensure that all software
 
 </details>
+
+
+
+
+

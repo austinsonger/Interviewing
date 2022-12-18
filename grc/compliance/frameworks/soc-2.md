@@ -1,5 +1,7 @@
 # SOC 2
 
+
+
 * SOC 2 is a set of guidelines and standards for service providers to ensure the security, availability, processing integrity, confidentiality, and privacy of customer data.
 * SOC 2 is an auditing procedure developed by the American Institute of Certified Public Accountants (AICPA).
 * SOC 2 is based on the Trust Services Principles and Criteria, which include the five categories of security, availability, processing integrity, confidentiality, and privacy.

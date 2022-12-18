@@ -1,4 +1,6 @@
-# Business Associate Agreement (Facts)
+# Business Associate Agreement (BAA)
+
+
 
 1. A BAA is a contract between a covered entity and a business associate in the United States to ensure the privacy and security of protected health information (PHI) in accordance with the Health Insurance Portability and Accountability Act (HIPAA).
 2. BAAs must be in writing and signed by both parties.

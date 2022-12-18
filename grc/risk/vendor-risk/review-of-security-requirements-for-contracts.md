@@ -6,6 +6,8 @@
 2. An obligation to a specific security or privacy control. These obligations get to the point of the matter, which is generally a specific risk the customer is concerned about rather than a whole class of activity. This is more acceptable and manageable. For instance, an obligation to implement a security awareness for employees based on NERC CIP is much less onerous than implementing NERC CIP, particularly when it does not apply to the situation.
 3. An obligation to certain performance activities such as reporting when certain events occur including security events, incidents or breaches, outages or other IT events. On the surface these are reasonable requests but raise risk dramatically for a firm that does not have the wherewithal to identify, log, manage and report on those types of events.
 
+
+
 #### Personal Information <a href="#personal" id="personal"></a>
 
 1. How is personal information defined?
@@ -18,6 +20,8 @@
    * Is personal information included in the definition of confidential information?
    * Is personal information to be treated as confidential information?
 3. Are there types of information defined separately from personal information and confidential information?
+
+
 
 #### Applicable Law <a href="#applicable" id="applicable"></a>
 

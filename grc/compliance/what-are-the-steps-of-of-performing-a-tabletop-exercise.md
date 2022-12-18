@@ -1,5 +1,7 @@
 # What are the steps of of performing a tabletop exercise?
 
+
+
 1. Begin with a kick-off meeting to define the purpose and goals of the exercise.
 2. Assign roles and responsibilities to participants.
 3. Develop an outline of the exercise timeline.

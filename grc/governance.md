@@ -1,2 +1,2 @@
-# Security & Privacy Governance
+# Governance
 

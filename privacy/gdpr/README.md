@@ -1,4 +1,4 @@
-# GDPR (Facts)
+# GDPR
 
 1. GDPR stands for General Data Protection Regulation and is an EU regulation designed to protect the data and privacy of EU citizens.
 2. It was approved in April 2016 and came into effect on May 25, 2018.

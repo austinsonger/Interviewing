@@ -11,6 +11,8 @@ To determine whether your vendors are properly prepared, consider the following 
 
 Understanding how the vendor would handle an incident may give you a good idea of any risks present and how well the vendor’s procedures and priorities align with those of your organization.
 
+
+
 #### Best Practices for Third-Party Data Protection
 
 The initial due diligence process is only one part in your time with your vendor, and the risks associated with your vendor will continue to exist throughout your entire relationship. Just as you’ll regularly assess your vendor’s performance, services, and financial health, for example, it’s also imperative to perform ongoing due diligence to check for cybersecurity measures.\
