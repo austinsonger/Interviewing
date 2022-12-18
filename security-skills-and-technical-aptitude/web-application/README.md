@@ -38,60 +38,60 @@ Cross-site request forgery (CSRF) is a type of attack that tricks a user into ma
 
 <summary>What are the steps to prevent CSRF attacks?</summary>
 
-Answer: The steps to prevent CSRF attacks include using a secret token, validating the HTTP request method, and using a CAPTCHA.
+The steps to prevent CSRF attacks include using a secret token, validating the HTTP request method, and using a CAPTCHA.
 </details>
 
 
 <details>
 <summary>What is a buffer overflow attack?</summary>
 
-Answer: A buffer overflow attack is a type of attack that occurs when an attacker sends more data than a web application can handle, causing the application to crash or become vulnerable to further exploits.
+A buffer overflow attack is a type of attack that occurs when an attacker sends more data than a web application can handle, causing the application to crash or become vulnerable to further exploits.
 </details>
 
 
 <details>
 <summary>What are the steps to prevent buffer overflow attacks?</summary>
 
-Answer: The steps to prevent buffer overflow attacks include input validation, output encoding, and avoiding insecure programming techniques.
+The steps to prevent buffer overflow attacks include input validation, output encoding, and avoiding insecure programming techniques.
 </details>
 
 
 <details>
 <summary>What is a denial-of-service attack (DoS)?</summary>
 
-Answer: A denial-of-service attack (DoS) is a type of attack that prevents users from accessing a web application by flooding it with requests.
+A denial-of-service attack (DoS) is a type of attack that prevents users from accessing a web application by flooding it with requests.
 </details>
 
 
 <details>
 <summary>What are the steps to prevent DoS attacks?</summary>
 
-Answer: The steps to prevent DoS attacks include rate limiting, request filtering, and using a web application firewall (WAF).
+The steps to prevent DoS attacks include rate limiting, request filtering, and using a web application firewall (WAF).
 </details>
 
 
 <details>
 <summary>What is a man-in-the-middle attack (MITM)?</summary>
 
-Answer: A man-in-the-middle attack (MITM) is a type of attack that allows an attacker to intercept and modify data sent between two parties.
+A man-in-the-middle attack (MITM) is a type of attack that allows an attacker to intercept and modify data sent between two parties.
 </details>
 
 <details>
 <summary>What are the steps to prevent MITM attacks?</summary>
 
-Answer: The steps to prevent MITM attacks include using a secure protocol such as HTTPS, implementing certificate pinning, and using a public key infrastructure (PKI).
+The steps to prevent MITM attacks include using a secure protocol such as HTTPS, implementing certificate pinning, and using a public key infrastructure (PKI).
 </details>
 
 <details>
 <summary>What is a clickjacking attack?&#x20;</summary>
 
-Answer: A clickjacking attack is a type of attack that tricks a user into clicking on a hidden link or button on a web page.
+A clickjacking attack is a type of attack that tricks a user into clicking on a hidden link or button on a web page.
 </details>
 
 <details>
 <summary>What are the steps to prevent clickjacking attacks?&#x20;</summary>
 
-Answer: The steps to prevent clickjacking attacks include using the X-Frame-Options header, implementing content security policy (CSP), and using framebusting techniques.
+The steps to prevent clickjacking attacks include using the X-Frame-Options header, implementing content security policy (CSP), and using framebusting techniques.
 </details>
 
 <details>
@@ -109,13 +109,13 @@ A directory traversal attack is a type of attack that allows an attacker to acce
 <details>
 <summary>What is a SQL injection attack?</summary>
 
-Answer: A SQL injection attack is a type of attack that allows an attacker to execute malicious SQL commands on a database.
+A SQL injection attack is a type of attack that allows an attacker to execute malicious SQL commands on a database.
 </details>
 
 <details>
 <summary>What are the steps to prevent SQL injection attacks?</summary>
 
-Answer: The steps to prevent SQL injection attacks include input validation, output encoding, and using parameterized queries.
+The steps to prevent SQL injection attacks include input validation, output encoding, and using parameterized queries.
 
 </details>
   
@@ -125,7 +125,7 @@ Answer: The steps to prevent SQL injection attacks include input validation, out
 
 <summary>What is an insecure direct object reference attack?</summary>
 
-Answer: An insecure direct object reference attack is a type of attack that allows an attacker to access restricted objects on a web application.
+An insecure direct object reference attack is a type of attack that allows an attacker to access restricted objects on a web application.
 
 </details> 
   
@@ -134,7 +134,7 @@ Answer: An insecure direct object reference attack is a type of attack that allo
 
 <summary>What are the steps to prevent insecure direct object reference attacks?</summary>
 
-Answer: The steps to prevent insecure direct object reference attacks include input validation, output encoding, and using access control lists (ACLs).
+The steps to prevent insecure direct object reference attacks include input validation, output encoding, and using access control lists (ACLs).
 
 </details>
   
@@ -143,7 +143,7 @@ Answer: The steps to prevent insecure direct object reference attacks include in
 
 <summary>What is a path traversal attack?</summary>
 
-Answer: A path traversal attack is a type of attack that allows an attacker to access restricted files and directories on a web server.
+A path traversal attack is a type of attack that allows an attacker to access restricted files and directories on a web server.
 
 </details>  
   
@@ -152,7 +152,7 @@ Answer: A path traversal attack is a type of attack that allows an attacker to a
 
 <summary>What are the steps to prevent path traversal attacks?</summary>
 
-Answer: The steps to prevent path traversal attacks include input validation, output encoding, and using an access control list (ACL).
+The steps to prevent path traversal attacks include input validation, output encoding, and using an access control list (ACL).
 
 </details>
   
@@ -161,7 +161,7 @@ Answer: The steps to prevent path traversal attacks include input validation, ou
 
 <summary>What is a remote file inclusion attack?</summary>
 
-Answer: A remote file inclusion attack is a type of attack that allows an attacker to inject malicious code into a web application.
+A remote file inclusion attack is a type of attack that allows an attacker to inject malicious code into a web application.
 
 </details>  
   
@@ -170,7 +170,7 @@ Answer: A remote file inclusion attack is a type of attack that allows an attack
 
 <summary>What are the steps to prevent remote file inclusion attacks?</summary>
 
-Answer: The steps to prevent remote file inclusion attacks include input validation, output encoding, and using a whitelist of file types.
+The steps to prevent remote file inclusion attacks include input validation, output encoding, and using a whitelist of file types.
 
 </details>  
 
@@ -179,7 +179,7 @@ Answer: The steps to prevent remote file inclusion attacks include input validat
 
 <summary>What is a zero-day attack?</summary>
 
-Answer: A zero-day attack is a type of attack that exploits a previously unknown vulnerability in a web application.
+A zero-day attack is a type of attack that exploits a previously unknown vulnerability in a web application.
 
 </details>  
   
@@ -190,7 +190,7 @@ Answer: A zero-day attack is a type of attack that exploits a previously unknown
 
 <summary>What are the steps to prevent zero-day attacks?</summary>
 
-Answer: The steps to prevent zero-day attacks include patching vulnerabilities, using a web application firewall (WAF), and monitoring system logs.
+The steps to prevent zero-day attacks include patching vulnerabilities, using a web application firewall (WAF), and monitoring system logs.
 
 </details>  
   
@@ -199,7 +199,7 @@ Answer: The steps to prevent zero-day attacks include patching vulnerabilities, 
 
 <summary>What is a brute force attack?</summary>
 
-Answer: A brute force attack is a type of attack that attempts to guess passwords or encryption keys by trying every possible combination.
+A brute force attack is a type of attack that attempts to guess passwords or encryption keys by trying every possible combination.
 
 </details>  
   
@@ -208,7 +208,7 @@ Answer: A brute force attack is a type of attack that attempts to guess password
 
 <summary>What are the steps to prevent brute force attacks?</summary>
 
-Answer: The steps to prevent brute force attacks include using strong passwords, implementing two-factor authentication, and using a web application firewall (WAF).
+The steps to prevent brute force attacks include using strong passwords, implementing two-factor authentication, and using a web application firewall (WAF).
 
 </details>  
   
@@ -217,7 +217,7 @@ Answer: The steps to prevent brute force attacks include using strong passwords,
 
 <summary>What is a web server attack?</summary>
 
-Answer: A web server attack is a type of attack that targets the web server hosting a web application.
+A web server attack is a type of attack that targets the web server hosting a web application.
 
 </details>  
   
@@ -227,7 +227,7 @@ Answer: A web server attack is a type of attack that targets the web server host
 
 <summary>What are the steps to prevent web server attacks?</summary>
 
-Answer: The steps to prevent web server attacks include hardening the server, keeping software up-to-date, and using a web application firewall (WAF).
+The steps to prevent web server attacks include hardening the server, keeping software up-to-date, and using a web application firewall (WAF).
 
 </details>  
   
@@ -237,7 +237,7 @@ Answer: The steps to prevent web server attacks include hardening the server, ke
 
 <summary>What is a session hijacking attack?</summary>
 
-Answer: A session hijacking attack is a type of attack that allows an attacker to take control of a user’s session.
+A session hijacking attack is a type of attack that allows an attacker to take control of a user’s session.
 
 </details>  
 
@@ -246,7 +246,7 @@ Answer: A session hijacking attack is a type of attack that allows an attacker t
 
 <summary>What are the steps to prevent session hijacking attacks?</summary>
 
-Answer: The steps to prevent session hijacking attacks include using secure protocols such as HTTPS, regenerating the session ID, and using two-factor authentication.
+The steps to prevent session hijacking attacks include using secure protocols such as HTTPS, regenerating the session ID, and using two-factor authentication.
 
 </details>  
   
@@ -255,7 +255,7 @@ Answer: The steps to prevent session hijacking attacks include using secure prot
 
 <summary>What is a cross-site request forgery attack (CSRF)?</summary>
 
-Answer: A cross-site request forgery attack (CSRF) is a type of attack that tricks a user into making an unintended request to a web application.
+A cross-site request forgery attack (CSRF) is a type of attack that tricks a user into making an unintended request to a web application.
 
   </details>
   
