@@ -1,6 +1,6 @@
 # Web Security
 
-###
+
 
 <details>
 
@@ -9,10 +9,6 @@
 The most common type of web application security threat is SQL injection.
 
 </details>
-
-
-
-## XSS
 
 <details>
 
@@ -29,8 +25,6 @@ Cross-site scripting (XSS) is a type of security vulnerability that allows an at
 The steps to prevent XSS attacks include input validation, output encoding, and context-sensitive output escaping.
 
 </details>
-
-## CSRF
 
 <details>
 
