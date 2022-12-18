@@ -174,13 +174,13 @@
   * [How do you measure the success of a project?](project-coordination-and-collaboration/project-management/how-do-you-measure-the-success-of-a-project.md)
   * [What are the proper steps to managing a project from start to finish?](project-coordination-and-collaboration/project-management/what-are-the-proper-steps-to-managing-a-project-from-start-to-finish.md)
 
-## Problems & START Examples
+## Problem Action Results (PAR)
 
-* [Ideas](problems-and-start-examples/ideas/README.md)
-  * [Communicating Compliance News and Status](problems-and-start-examples/ideas/communicating-compliance-news-and-status.md)
-  * [Implement Jumpcloud to replace Okta + Addigy + LastPass](problems-and-start-examples/ideas/implement-jumpcloud-to-replace-okta-+-addigy-+-lastpass.md)
-  * [Communication Matrix (What and Where)](problems-and-start-examples/ideas/communication-matrix-what-and-where.md)
-* [Problems](problems-and-start-examples/problems/README.md)
-  * [Lacking a formal security program](problems-and-start-examples/problems/lacking-a-formal-security-program.md)
-  * [Not enough resources to manage the complexity of policies](problems-and-start-examples/problems/not-enough-resources-to-manage-the-complexity-of-policies.md)
-  * [Poor Vulnerability Management](problems-and-start-examples/problems/poor-vulnerability-management.md)
+* [Ideas](problem-action-results-par/ideas/README.md)
+  * [Communicating Compliance News and Status](problem-action-results-par/ideas/communicating-compliance-news-and-status.md)
+  * [Implement Jumpcloud to replace Okta + Addigy + LastPass](problem-action-results-par/ideas/implement-jumpcloud-to-replace-okta-+-addigy-+-lastpass.md)
+  * [Communication Matrix (What and Where)](problem-action-results-par/ideas/communication-matrix-what-and-where.md)
+* [Problems](problem-action-results-par/problems/README.md)
+  * [Lacking a formal security program](problem-action-results-par/problems/lacking-a-formal-security-program.md)
+  * [Not enough resources to manage the complexity of policies](problem-action-results-par/problems/not-enough-resources-to-manage-the-complexity-of-policies.md)
+  * [Poor Vulnerability Management](problem-action-results-par/problems/poor-vulnerability-management.md)
