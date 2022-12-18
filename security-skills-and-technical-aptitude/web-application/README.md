@@ -26,17 +26,14 @@ The steps to prevent XSS attacks include input validation, output encoding, and 
 
 </details>
 
-###
 
-
-
-###
-
-### What is Cross-site Request Forgery (CSRF)?
+<details>
+<summaryWhat is Cross-site Request Forgery (CSRF)?</summary
 
 Answer: Cross-site request forgery (CSRF) is a type of attack that tricks a user into making an unintended request to a web application.
+</details>
 
-###
+
 
 ### What are the steps to prevent CSRF attacks?
 
