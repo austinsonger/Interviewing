@@ -1,2 +1,0 @@
-# Business Continuity & Disaster Recovery
-
