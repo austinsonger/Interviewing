@@ -24,13 +24,13 @@
 ## Privacy
 
 * [Data Privacy - General](privacy/data-privacy-general/README.md)
-  * [Data Privacy](privacy/data-privacy-general/data-privacy/README.md)
+  * [Data Privacy (Facts)](privacy/data-privacy-general/data-privacy/README.md)
     * [25 Data Privacy Questions](privacy/data-privacy-general/data-privacy/25-data-privacy-questions.md)
   * [Data categorization](privacy/data-privacy-general/data-categorization.md)
   * [Data Anonymization](privacy/data-privacy-general/data-anonymization.md)
   * [Data Classification](privacy/data-privacy-general/data-classification.md)
   * [Data Inventory](privacy/data-privacy-general/data-inventory.md)
-* [HIPAA](privacy/hipaa/README.md)
+* [HIPAA (Facts)](privacy/hipaa/README.md)
   * [HIPAA Security Rule](privacy/hipaa/hipaa-security-rule/README.md)
     * [25 HIPAA Security Rule Questions](privacy/hipaa/hipaa-security-rule/25-hipaa-security-rule-questions.md)
   * [HIPAA Privacy Rule](privacy/hipaa/hipaa-privacy-rule/README.md)
