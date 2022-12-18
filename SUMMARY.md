@@ -132,7 +132,7 @@
     * [What is the difference between the 'network' layer and the 'Internet' layer?](security-skills-and-technical-aptitude/network/networking/what-is-the-difference-between-the-network-layer-and-the-internet-layer.md)
     * [What protocols are used at the network layer?](security-skills-and-technical-aptitude/network/networking/what-protocols-are-used-at-the-network-layer.md)
     * [How do these concepts relate to websites and applications users access over the Internet?](security-skills-and-technical-aptitude/network/networking/how-do-these-concepts-relate-to-websites-and-applications-users-access-over-the-internet.md)
-  * [TCP/IP Model](security-domains-and-technical-aptitude/network-security/tcp-ip-model.md)
+  * [TCP/IP Model](security-skills-and-technical-aptitude/general/tcp-ip-model.md)
 * [Privacy](security-domains-and-technical-aptitude/privacy/README.md)
   * [Data Privacy - General](privacy/data-privacy-general/README.md)
     * [Data Privacy (Facts)](privacy/data-privacy-general/data-privacy/README.md)
