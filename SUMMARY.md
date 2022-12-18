@@ -176,11 +176,8 @@
 
 ## Problem Action Results (PAR)
 
-* [Ideas](problem-action-results-par/ideas/README.md)
-  * [Communicating Compliance News and Status](problem-action-results-par/ideas/communicating-compliance-news-and-status.md)
-  * [Implement Jumpcloud to replace Okta + Addigy + LastPass](problem-action-results-par/ideas/implement-jumpcloud-to-replace-okta-+-addigy-+-lastpass.md)
-  * [Communication Matrix (What and Where)](problem-action-results-par/ideas/communication-matrix-what-and-where.md)
 * [Problems](problem-action-results-par/problems/README.md)
   * [Lacking a formal security program](problem-action-results-par/problems/lacking-a-formal-security-program.md)
   * [Not enough resources to manage the complexity of policies](problem-action-results-par/problems/not-enough-resources-to-manage-the-complexity-of-policies.md)
   * [Poor Vulnerability Management](problem-action-results-par/problems/poor-vulnerability-management.md)
+* [Page 1](problem-action-results-par/page-1.md)
