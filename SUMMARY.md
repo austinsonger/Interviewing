@@ -40,7 +40,7 @@
   * [20 BAA Questions](privacy/business-associate-agreement-baa/20-baa-questions.md)
 * [Data Use Agreement (DUA)](privacy/data-use-agreement-dua/README.md)
   * [Questions](privacy/data-use-agreement-dua/questions.md)
-* [GDPR](privacy/gdpr/README.md)
+* [GDPR (Facts)](privacy/gdpr/README.md)
   * [Questions](privacy/gdpr/questions.md)
 
 ## GRC
@@ -176,8 +176,4 @@
 
 ## Problem Action Results (PAR)
 
-* [Problems](problem-action-results-par/problems/README.md)
-  * [Lacking a formal security program](problem-action-results-par/problems/lacking-a-formal-security-program.md)
-  * [Not enough resources to manage the complexity of policies](problem-action-results-par/problems/not-enough-resources-to-manage-the-complexity-of-policies.md)
-  * [Poor Vulnerability Management](problem-action-results-par/problems/poor-vulnerability-management.md)
 * [Page 1](problem-action-results-par/page-1.md)
