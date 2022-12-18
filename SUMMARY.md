@@ -20,16 +20,6 @@
   * [Juggle multiple important projects.](intro/behavioral-based/juggle-multiple-important-projects..md)
   * [Most innovative new idea that you have implemented?](intro/behavioral-based/most-innovative-new-idea-that-you-have-implemented.md)
   * [What project have you done that you're most proud of?](intro/behavioral-based/what-project-have-you-done-that-youre-most-proud-of.md)
-* [Companies](intro/companies/README.md)
-  * [Nuna](intro/companies/nuna/README.md)
-    * [Job Description](intro/companies/nuna/job-description/README.md)
-      * [Security/Privacy Training](intro/companies/nuna/job-description/security-privacy-training.md)
-      * [Audit](intro/companies/nuna/job-description/audit/README.md)
-        * [SOC 2](intro/companies/nuna/job-description/audit/soc-2.md)
-      * [Data Access](intro/companies/nuna/job-description/data-access.md)
-      * [Cross-Departmental Collaboration](intro/companies/nuna/job-description/cross-departmental-collaboration.md)
-      * [Review](intro/companies/nuna/job-description/review.md)
-      * [Risk Assessments](intro/companies/nuna/job-description/risk-assessments.md)
 
 ## Privacy
 
