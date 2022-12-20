@@ -202,7 +202,7 @@
     * [How do you perform risk assessments for threats?](security-domains-and-technical-aptitude/risk-management/risk-assessment/how-do-you-perform-risk-assessments-for-threats.md)
     * [How do you assess and manage third-party risk?](security-domains-and-technical-aptitude/risk-management/risk-assessment/how-do-you-assess-and-manage-third-party-risk.md)
   * [Business Impact Assessment](grc/risk/business-impact-assessment.md)
-* [Mobile Device Management](security-domains-and-technical-aptitude/mobile-device-management/README.md)
+* [Mobile Device Management](security-domains-and-technical-aptitude/mobile-device-management-empty.md)
   * [How do you ensure that all mobile devices are compliant with corporate policies?](security-domains-and-technical-aptitude/mobile-device-management/how-do-you-ensure-that-all-mobile-devices-are-compliant-with-corporate-policies.md)
   * [How do you handle mobile device security issues?](security-domains-and-technical-aptitude/mobile-device-management/how-do-you-handle-mobile-device-security-issues.md)
 * [Third-Party Management](security-domains-and-technical-aptitude/third-party-management/README.md)
