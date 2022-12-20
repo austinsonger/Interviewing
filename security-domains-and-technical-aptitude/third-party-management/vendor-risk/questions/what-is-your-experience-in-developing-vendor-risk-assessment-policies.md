@@ -1,0 +1,3 @@
+# What is your experience in developing vendor risk assessment policies?
+
+I have extensive experience in developing vendor risk assessment policies. I have worked with organizations to identify the key criteria for assessing the risk associated with vendors, develop a process for evaluating vendors and their offerings, and create a risk-based approach for evaluating vendor performance. I have also worked to develop policies and procedures for monitoring, reviewing, and responding to vendor risk. Additionally, I have experience in developing a vendor risk rating system and conducting regular risk assessments.

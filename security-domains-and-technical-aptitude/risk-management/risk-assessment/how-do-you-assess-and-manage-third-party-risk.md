@@ -1,0 +1,6 @@
+# How do you assess and manage third-party risk?
+
+1. Identify the risks: The first step to assessing and managing third-party risk is to identify the risks that may be associated with the third-party. This should include understanding the organization’s requirements and evaluating the potential impact of the third-party’s products, services, and processes on the organization’s data, networks, and operations.
+2. Evaluate the third-party: Once the risks have been identified, the organization should conduct a thorough review of the third-party’s security policies, procedures, and systems. This should include assessing the third-party’s security controls, network architecture, and customer data protection practices.
+3. Establish a contractual agreement: The organization should then enter into a contractual agreement with the third-party that outlines the security requirements, data handling procedures, and other measures that the third-party must take to ensure the security of the organization’s data and systems.
+4. Monitor and review: Once the agreement is in place, the organization should implement a monitoring program to ensure that the third-party is adhering to the contractual terms and security requirements. The organization should also periodically review the agreement to ensure that the third-party is meeting its obligations.
