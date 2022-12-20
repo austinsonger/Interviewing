@@ -1,74 +1,74 @@
 # Cyber Risk Assessment
 
-What is Cyber Risk Assessment?&#x20;
+### What is Cyber Risk Assessment?&#x20;
 
-Answer: Cyber Risk Assessment is the process of identifying, analyzing, and managing potential risks to an organization’s information systems and networks. It involves identifying potential threats and vulnerabilities, assessing the potential impact of these threats and vulnerabilities, and developing strategies to mitigate or reduce the risks.
+Cyber Risk Assessment is the process of identifying, analyzing, and managing potential risks to an organization’s information systems and networks. It involves identifying potential threats and vulnerabilities, assessing the potential impact of these threats and vulnerabilities, and developing strategies to mitigate or reduce the risks.
 
 
 
-Why is Cyber Risk Assessment important?&#x20;
+### Why is Cyber Risk Assessment important?&#x20;
 
-Answer: Cyber Risk Assessment is important because it helps organizations identify and manage potential threats to their information systems and networks, enabling them to prevent or reduce the impact of such threats.
+Cyber Risk Assessment is important because it helps organizations identify and manage potential threats to their information systems and networks, enabling them to prevent or reduce the impact of such threats.
 
 
 
 What are the steps involved in a Cyber Risk Assessment?&#x20;
 
-Answer: The steps involved in a Cyber Risk Assessment include: identifying potential threats and vulnerabilities; assessing the potential impact of these threats and vulnerabilities; and developing strategies to mitigate or reduce the risks.
+The steps involved in a Cyber Risk Assessment include: identifying potential threats and vulnerabilities; assessing the potential impact of these threats and vulnerabilities; and developing strategies to mitigate or reduce the risks.
 
 
 
 What types of threats and vulnerabilities should be assessed in a Cyber Risk Assessment?&#x20;
 
-Answer: The types of threats and vulnerabilities that should be assessed in a Cyber Risk Assessment include: malicious software (e.g. viruses, worms, Trojan horses); unauthorized access (e.g. unauthorized access to confidential information); and external attacks (e.g. denial of service attacks).
+The types of threats and vulnerabilities that should be assessed in a Cyber Risk Assessment include: malicious software (e.g. viruses, worms, Trojan horses); unauthorized access (e.g. unauthorized access to confidential information); and external attacks (e.g. denial of service attacks).
 
 
 
 What types of controls can be implemented to mitigate Cyber Risk?&#x20;
 
-Answer: The types of controls that can be implemented to mitigate Cyber Risk include: implementing security policies and procedures; using firewalls and intrusion detection systems; patching and updating software; using encryption; and using secure authentication methods (e.g. two-factor authentication).
+The types of controls that can be implemented to mitigate Cyber Risk include: implementing security policies and procedures; using firewalls and intrusion detection systems; patching and updating software; using encryption; and using secure authentication methods (e.g. two-factor authentication).
 
 
 
 What is a threat model?&#x20;
 
-Answer: A threat model is a representation of the threats and vulnerabilities that an organization faces. It is used to assess the potential impact of cyber threats and vulnerabilities, and to identify strategies and controls that can be used to mitigate the risks.
+A threat model is a representation of the threats and vulnerabilities that an organization faces. It is used to assess the potential impact of cyber threats and vulnerabilities, and to identify strategies and controls that can be used to mitigate the risks.
 
 
 
 What is a risk score?&#x20;
 
-Answer: A risk score is a numerical representation of the risk to an organization’s information systems and networks. It is used to assess the probability and severity of potential threats and vulnerabilities, and to prioritize the implementation of risk mitigation strategies.
+A risk score is a numerical representation of the risk to an organization’s information systems and networks. It is used to assess the probability and severity of potential threats and vulnerabilities, and to prioritize the implementation of risk mitigation strategies.
 
 
 
 What is a risk management plan?&#x20;
 
-Answer: A risk management plan is a document that outlines the steps and strategies that an organization should take to manage and reduce cyber risks. It includes a risk assessment, identification of potential threats and vulnerabilities, and the implementation of risk mitigation strategies.
+A risk management plan is a document that outlines the steps and strategies that an organization should take to manage and reduce cyber risks. It includes a risk assessment, identification of potential threats and vulnerabilities, and the implementation of risk mitigation strategies.
 
 
 
 What is a security policy?&#x20;
 
-Answer: A security policy is a set of guidelines and procedures for protecting an organization’s information systems and networks. It outlines the roles and responsibilities of employees and sets out the steps that should be taken in the event of a security incident.
+A security policy is a set of guidelines and procedures for protecting an organization’s information systems and networks. It outlines the roles and responsibilities of employees and sets out the steps that should be taken in the event of a security incident.
 
 
 
 What is a security audit?&#x20;
 
-Answer: A security audit is an assessment of the security measures that an organization has in place to protect its information systems and networks. It involves assessing the effectiveness of the security policies, procedures, and controls, and identifying any potential areas of vulnerability.
+A security audit is an assessment of the security measures that an organization has in place to protect its information systems and networks. It involves assessing the effectiveness of the security policies, procedures, and controls, and identifying any potential areas of vulnerability.
 
 
 
 What is a vulnerability assessment?&#x20;
 
-Answer: A vulnerability assessment is an analysis of an organization’s information systems and networks to identify potential weaknesses and vulnerabilities. It involves assessing the security measures that are in place, and identifying any areas of risk.
+A vulnerability assessment is an analysis of an organization’s information systems and networks to identify potential weaknesses and vulnerabilities. It involves assessing the security measures that are in place, and identifying any areas of risk.
 
 
 
 What is a penetration test?&#x20;
 
-Answer: A penetration test is a security assessment that is designed to identify any weaknesses and vulnerabilities in an organization’s information systems and networks. It involves attempting to gain unauthorized access to the system, and assessing the impact of any successful attempts.
+A penetration test is a security assessment that is designed to identify any weaknesses and vulnerabilities in an organization’s information systems and networks. It involves attempting to gain unauthorized access to the system, and assessing the impact of any successful attempts.
 
 
 
