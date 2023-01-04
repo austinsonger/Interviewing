@@ -1,6 +1,6 @@
 # Data Leakage
 
-### &#x20;How do you prevent data leakage when transferring customer data?
+## &#x20;How do you prevent data leakage when transferring customer data?
 
 1. Ensure data is encrypted.
 2. Use secure protocols such as TLS or SSL.
@@ -13,7 +13,7 @@
 
 
 
-### How do you ensure that customer data is not used for secondary purposes?
+## How do you ensure that customer data is not used for secondary purposes?
 
 1. Use clear language in your privacy policy that customers agree to when they register on your website. This should detail exactly how customer data will be used and for what purpose.
 2. Educate your staff about data privacy and the importance of protecting customer data.
