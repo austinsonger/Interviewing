@@ -1,84 +1,56 @@
 # Vendor Risk
 
-<details>
-
-<summary>What is vendor risk assessment?</summary>
+### What is vendor risk assessment?&#x20;
 
 Vendor risk assessment is a process of evaluating and analyzing the risks posed by third-party vendors to an organization's operations, reputation, and financial health. The assessment evaluates factors such as vendor reliability, security controls, compliance with regulatory requirements, and financial stability.
 
-</details>
 
-<details>
 
-<summary>What are the benefits of conducting a vendor risk assessment? </summary>
+### What are the benefits of conducting a vendor risk assessment?&#x20;
 
 The benefits of conducting a vendor risk assessment include identifying and mitigating existing and potential risks, ensuring regulatory compliance, strengthening vendor relationships, and improving operational performance.
 
-</details>
 
-<details>
 
-<summary>What criteria should be considered when assessing vendor risk?</summary>
+### What criteria should be considered when assessing vendor risk?&#x20;
 
 When assessing vendor risk, criteria such as vendor reliability, security controls, compliance with regulatory requirements, and financial stability should be considered.
 
-</details>
 
-<details>
 
-<summary>What processes should be in place to ensure ongoing vendor risk assessment? </summary>
+### What processes should be in place to ensure ongoing vendor risk assessment?&#x20;
 
 To ensure ongoing vendor risk assessment, processes such as bi-annual reviews, periodic audits, and regular monitoring should be in place.
 
-</details>
 
-<details>
 
-<summary>What are the key elements of a vendor risk assessment? </summary>
+### What are the key elements of a vendor risk assessment?&#x20;
 
 The key elements of a vendor risk assessment include identifying and assessing the risks, evaluating the vendor's security controls, and monitoring the vendor's performance.
 
-</details>
 
-<details>
 
-<summary>What is the purpose of a vendor risk assessment? </summary>
+### What is the purpose of a vendor risk assessment?&#x20;
 
 The purpose of a vendor risk assessment is to identify, assess, and mitigate potential risks posed by third-party vendors to an organization's operations, reputation, and financial health.
 
-</details>
 
-<details>
 
-<summary>What are the steps in a vendor risk assessment process? </summary>
+### What are the steps in a vendor risk assessment process?&#x20;
 
 The steps in a vendor risk assessment process include identifying the vendors and their associated risks, gathering and analyzing data, evaluating the vendor's security controls, and monitoring the vendor's performance.
 
-</details>
 
-<details>
 
-<summary>What types of data should be collected during a vendor risk assessment? </summary>
+### What types of data should be collected during a vendor risk assessment?&#x20;
 
 Types of data that should be collected during a vendor risk assessment include vendor documents, financial records, contracts, audit reports, and security policies.
 
-</details>
 
-<details>
 
-<summary>What are the common risks associated with vendors? </summary>
+### What are the common risks associated with vendors?&#x20;
 
 Common risks associated with vendors include financial instability, data breaches, lack of security controls, and inadequate compliance with regulatory requirements.
-
-</details>
-
-
-
-
-
-
-
-###
 
 
 
