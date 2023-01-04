@@ -31,6 +31,7 @@
   * [Questions with Steps](security-domains-and-technical-aptitude/general/questions-with-steps/README.md)
     * [What are the steps when securing a Linux server?](security-skills-and-technical-aptitude/general/what-are-the-steps-when-securing-a-linux-server.md)
     * [Explain what happens when you type domain in the browser and press enter](security-skills-and-technical-aptitude/general/explain-what-happens-when-you-type-domain-in-the-browser-and-press-enter.md)
+* [Security & Privacy Governance](security-domains-and-technical-aptitude/governance.md)
 * [Cloud Security](security-domains-and-technical-aptitude/cloud-security/README.md)
   * [AWS](security-skills-and-technical-aptitude/cloud/aws/README.md)
     * [Security](security-skills-and-technical-aptitude/cloud/aws/security.md)
@@ -239,7 +240,6 @@
 
 ## Not Ready
 
-* [Security & Privacy Governance (Empty)](grc/governance.md)
 * [Vulnerability & Patch Management (Empty)](security-domains-and-technical-aptitude/vulnerability-and-patch-management-empty.md)
 * [Threat Management (Empty)](security-domains-and-technical-aptitude/threat-management-empty.md)
 * [Security Awareness & Training (Empty)](security-domains-and-technical-aptitude/security-awareness-and-training-empty.md)
