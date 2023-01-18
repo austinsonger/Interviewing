@@ -21,10 +21,6 @@
   * [Most innovative new idea that you have implemented?](intro/behavioral-based/most-innovative-new-idea-that-you-have-implemented.md)
   * [What project have you done that you're most proud of?](intro/behavioral-based/what-project-have-you-done-that-youre-most-proud-of.md)
 
-## Problem Action Results (PAR)
-
-* [(Empty)](problem-action-results-par/page-1.md)
-
 ## Security Domains & Technical Aptitude
 
 * [General](security-skills-and-technical-aptitude/general/README.md)
