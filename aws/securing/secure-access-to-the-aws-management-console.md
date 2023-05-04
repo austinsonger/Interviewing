@@ -1,4 +1,4 @@
-# How do you secure access to the AWS management console?
+# Secure access to the AWS management console
 
 1. Set up a strong password policy: Create a complex password policy that requires users to use a combination of upper and lower case letters, numbers, and symbols.
 2. Enable Multi-Factor Authentication (MFA): Require users to use an additional form of authentication, such as a one-time code sent via email or SMS, when logging into the AWS management console.

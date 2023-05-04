@@ -1,4 +1,4 @@
-# How do you secure data stored in the AWS with encryption?
+# Secure data stored in the AWS with encryption
 
 1. Use AWS Key Management Services (KMS) to create and manage encryption keys.
 2. Use Amazon Elastic Block Store (EBS) to encrypt data stored in Amazon EC2 instances.

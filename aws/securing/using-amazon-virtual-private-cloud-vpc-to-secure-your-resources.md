@@ -1,4 +1,4 @@
-# How do you use Amazon Virtual Private Cloud (VPC) to secure your resources?
+# Using Amazon Virtual Private Cloud (VPC) to secure your resources
 
 1. Use network access control lists (ACLs) to control inbound and outbound traffic to your VPC.
 2. Use security groups to control which instances in your VPC can communicate with each other.

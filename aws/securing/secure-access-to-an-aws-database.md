@@ -1,4 +1,4 @@
-# How can you secure access to an AWS database?
+# Secure access to an AWS database
 
 1. Use Multi-Factor Authentication (MFA): This is an added layer of security that requires users to provide two forms of identification to access AWS resources.
 2. Use Encryption: Encrypting sensitive data in transit and at rest can prevent unauthorized access to confidential information.

@@ -1,4 +1,4 @@
-# How do you secure access to your Amazon Elastic Container Service (ECS) clusters?
+# Secure access to your Amazon Elastic Container Service (ECS) clusters
 
 1. Enable IAM authentication: IAM authentication ensures that only authenticated users can access your Amazon ECS clusters.
 2. Create a Security Group: Security Groups control which IP addresses can access your Amazon ECS clusters.

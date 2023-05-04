@@ -1,4 +1,4 @@
-# How do you use AWS Certificate Manager (ACM) to secure your website and applications?
+# AWS Certificate Manager (ACM) to secure your website and applications
 
 1. Request a Certificate: Request an ACM Certificate for your domain. You can request a public certificate for your website or an internal certificate for your applications.
 2. Validate the Certificate: Validate the certificate using one of the available methods. You can validate using email, DNS, or HTTP.

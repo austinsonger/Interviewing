@@ -1,4 +1,4 @@
-# How do you protect against security breaches on AWS?
+# Protect against security breaches on AWS?
 
 <details>
 

@@ -1,4 +1,4 @@
-# What steps do you take to secure your AWS infrastructure from unauthorized access?
+# Secure your AWS infrastructure from unauthorized access
 
 1. Create a security-focused AWS Identity and Access Management (IAM) policy: Create an IAM policy that establishes permissions for users and group access, including the ability to view, create, and modify resources. Ensure that the policy is regularly reviewed and updated as needed to maintain security.
 2. Set up Multi-Factor Authentication (MFA): Implement MFA to ensure that only authorized users can access AWS services and resources.

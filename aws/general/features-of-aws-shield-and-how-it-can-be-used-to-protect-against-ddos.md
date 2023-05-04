@@ -1,4 +1,4 @@
-# Can you describe the security features of AWS Shield and how it can be used to protect against DDoS
+# Features of AWS Shield and how it can be used to protect against DDoS
 
 AWS Shield is a managed service that provides protection against common DDoS attacks such as SYN floods, UDP floods, ICMP floods, and application-layer attacks. It provides protection for applications running on AWS, including Amazon EC2, Amazon Route 53, Amazon CloudFront, and Elastic Load Balancing.
 

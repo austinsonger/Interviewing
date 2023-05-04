@@ -1,4 +1,4 @@
-# How can you secure an application running on an EC2 instance?
+# Secure an application running on an EC2 instance
 
 1. Ensure that the EC2 instance is running the latest version of its underlying operating system, and apply all security patches and updates.
 2. Configure the instance to use strong passwords and two-factor authentication.

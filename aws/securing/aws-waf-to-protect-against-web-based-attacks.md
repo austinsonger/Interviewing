@@ -1,4 +1,4 @@
-# How do you use AWS WAF to protect against web-based attacks?
+# AWS WAF to protect against web-based attacks
 
 Set up a web application firewall (WAF), which is a service that monitors, filters, and blocks malicious web traffic.
 
