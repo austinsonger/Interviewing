@@ -2,6 +2,7 @@
 
 The mission statement also helps develop a clear goal so can the audit can be properly carried out.
 
+
 1. **A risk assessment process**. This will describe and analyze the risks inherent in a given line of business. Evaluating the [risk assessment process](https://www.venminder.com/blog/vendor-risk-assessments-phases) provides an opportunity to determine if processes are being handled according to your third-party risk management policies and procedures.
 2. **An audit plan**. The plan should include internal audit's cost analysis, budgeting and planning processes. This is a good opportunity to conjoin two lines of defense: auditors and the third-party risk management team. When creating a plan, it’s important to collaborate by leveraging each team’s unique insight and tools. Communication is key!
 3. **An audit cycle**. Meaning, identify the frequency of audits.
